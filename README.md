@@ -23,18 +23,6 @@ This project demonstrates how to **deploy a secure cloud-native application** us
 
 ✅ **Goal:** Deliver production-ready infrastructure with **private network isolation**, **secure HTTPS exposure**, and **end-to-end CI/CD automation**.  
 
-
----
-## 📌 Tech Stack  
-
-| Category              | Tools & Services |
-|------------------------|-----------------|
-| **Cloud**             | Azure (ACI, SQL, App Gateway, Key Vault, VPN, Private DNS, Log Analytics) |
-| **IaC**               | Terraform (modular structure) |
-| **CI/CD**             | Azure DevOps Pipelines |
-| **Containerization**  | Docker + ACR |
-| **Security**          | NSG, RBAC, Managed Identity, WAF v2 |
-| **Monitoring**        | Log Analytics, Flow Logs, AppGW Insights |
 ---
 
 ## 🏗️ Architecture  
